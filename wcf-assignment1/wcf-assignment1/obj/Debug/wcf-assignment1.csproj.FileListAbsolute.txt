@@ -1,0 +1,7 @@
+C:\Users\dyan\Documents\GitHub\wcf-assignment1\wcf-assignment1\wcf-assignment1\bin\wcf-assignment1.dll.config
+C:\Users\dyan\Documents\GitHub\wcf-assignment1\wcf-assignment1\wcf-assignment1\bin\wcf-assignment1.dll
+C:\Users\dyan\Documents\GitHub\wcf-assignment1\wcf-assignment1\wcf-assignment1\bin\wcf-assignment1.pdb
+C:\Users\dyan\Documents\GitHub\wcf-assignment1\wcf-assignment1\wcf-assignment1\obj\Debug\wcf-assignment1.csproj.AssemblyReference.cache
+C:\Users\dyan\Documents\GitHub\wcf-assignment1\wcf-assignment1\wcf-assignment1\obj\Debug\wcf-assignment1.csproj.CoreCompileInputs.cache
+C:\Users\dyan\Documents\GitHub\wcf-assignment1\wcf-assignment1\wcf-assignment1\obj\Debug\wcf-assignment1.dll
+C:\Users\dyan\Documents\GitHub\wcf-assignment1\wcf-assignment1\wcf-assignment1\obj\Debug\wcf-assignment1.pdb
